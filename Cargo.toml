@@ -90,7 +90,6 @@ full = [
     "local-socks4",
     "local-dns",
     "local-redir",
-    "local-tun",
     "local-fake-dns",
     "local-online-config",
     "multi-threaded",
